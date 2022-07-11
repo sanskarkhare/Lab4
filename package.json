@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@openzeppelin/test-helpers": "^0.5.15",
     "mocha": "^10.0.0"
   }
 }
